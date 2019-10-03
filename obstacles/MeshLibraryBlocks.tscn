@@ -1,7 +1,10 @@
 [gd_scene load_steps=8 format=2]
 
-[ext_resource path="res://BlockGridMaterial.tres" type="Material" id=1]
-[ext_resource path="res://grid.png" type="Texture" id=2]
+[ext_resource path="res://obstacles/BlockGridMaterial.tres" type="Material" id=1]
+[ext_resource path="res://obstacles/grid.png" type="Texture" id=2]
+
+
+
 
 [sub_resource type="CubeMesh" id=1]
 material = ExtResource( 1 )

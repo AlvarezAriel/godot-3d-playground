@@ -1,6 +1,8 @@
 [gd_resource type="SpatialMaterial" load_steps=2 format=2]
 
-[ext_resource path="res://triangle_fire_transparency.png" type="Texture" id=1]
+[ext_resource path="res://fire/triangle_fire_transparency.png" type="Texture" id=1]
+
+
 
 [resource]
 flags_transparent = true

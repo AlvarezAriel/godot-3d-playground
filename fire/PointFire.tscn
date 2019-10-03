@@ -1,7 +1,10 @@
 [gd_scene load_steps=9 format=2]
 
-[ext_resource path="res://PointFire.gd" type="Script" id=1]
-[ext_resource path="res://flame_spatial_material.tres" type="Material" id=2]
+[ext_resource path="res://fire/PointFire.gd" type="Script" id=1]
+[ext_resource path="res://fire/flame_spatial_material.tres" type="Material" id=2]
+
+
+
 
 [sub_resource type="Gradient" id=1]
 offsets = PoolRealArray( 0.00306435, 0.588355, 0.860061, 0.996936 )

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/triangle_fire.png-f23d60a44358e2c53d03fc73a1853fce.s3tc.stex"
-path.etc2="res://.import/triangle_fire.png-f23d60a44358e2c53d03fc73a1853fce.etc2.stex"
+path.s3tc="res://.import/triangle_fire.png-acaa8733a7c72e7901420d8396b66075.s3tc.stex"
+path.etc2="res://.import/triangle_fire.png-acaa8733a7c72e7901420d8396b66075.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://triangle_fire.png"
-dest_files=[ "res://.import/triangle_fire.png-f23d60a44358e2c53d03fc73a1853fce.s3tc.stex", "res://.import/triangle_fire.png-f23d60a44358e2c53d03fc73a1853fce.etc2.stex" ]
+source_file="res://fire/triangle_fire.png"
+dest_files=[ "res://.import/triangle_fire.png-acaa8733a7c72e7901420d8396b66075.s3tc.stex", "res://.import/triangle_fire.png-acaa8733a7c72e7901420d8396b66075.etc2.stex" ]
 
 [params]
 

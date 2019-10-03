@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/grid.png-9bb66f80dbdd793fb4bb275a0d999fdf.s3tc.stex"
-path.etc2="res://.import/grid.png-9bb66f80dbdd793fb4bb275a0d999fdf.etc2.stex"
+path.s3tc="res://.import/triangle_fire_transparency.png-9c0d8f7e74919c68d7f1badb208f4b5d.s3tc.stex"
+path.etc2="res://.import/triangle_fire_transparency.png-9c0d8f7e74919c68d7f1badb208f4b5d.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://grid.png"
-dest_files=[ "res://.import/grid.png-9bb66f80dbdd793fb4bb275a0d999fdf.s3tc.stex", "res://.import/grid.png-9bb66f80dbdd793fb4bb275a0d999fdf.etc2.stex" ]
+source_file="res://fire/triangle_fire_transparency.png"
+dest_files=[ "res://.import/triangle_fire_transparency.png-9c0d8f7e74919c68d7f1badb208f4b5d.s3tc.stex", "res://.import/triangle_fire_transparency.png-9c0d8f7e74919c68d7f1badb208f4b5d.etc2.stex" ]
 
 [params]
 
@@ -24,7 +24,7 @@ compress/normal_map=0
 flags/repeat=true
 flags/filter=true
 flags/mipmaps=true
-flags/anisotropic=true
+flags/anisotropic=false
 flags/srgb=1
 process/fix_alpha_border=true
 process/premult_alpha=false
