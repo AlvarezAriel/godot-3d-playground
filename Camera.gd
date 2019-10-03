@@ -1,8 +1,8 @@
 extends Camera
 
 
-export(int, -20, 20) var offset_x = 0
-export(int, -20, 20) var offset_z = -10
+export(int, -20, 20) var offset_x = -5
+export(int, -20, 20) var offset_z = -5
 
 var player
 
