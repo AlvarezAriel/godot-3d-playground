@@ -22,8 +22,11 @@ config/icon="res://icon.png"
 [layer_names]
 
 2d_physics/layer_1="walls"
+3d_physics/layer_1="walls"
 2d_physics/layer_2="player"
+3d_physics/layer_2="player"
 2d_physics/layer_3="fire"
+3d_physics/layer_3="fire"
 
 [rendering]
 

@@ -14,3 +14,8 @@ func _ready():
 func set_firing(b):
 	firing = b
 	particles.emitting = b
+	monitoring = b
+
+func _on_MataFuegos_area_entered(area):
+	if area.is_in_group("fire") and firing:
+		area.extinguish()
