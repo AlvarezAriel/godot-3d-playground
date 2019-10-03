@@ -19,6 +19,12 @@ config/name="New Game Project"
 run/main_scene="res://World.tscn"
 config/icon="res://icon.png"
 
+[layer_names]
+
+2d_physics/layer_1="walls"
+2d_physics/layer_2="player"
+2d_physics/layer_3="fire"
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"
